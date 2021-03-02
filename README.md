@@ -17,3 +17,6 @@ Comment L'installer ?
 5.Fait python Generator.py
 
 6.Profite 
+
+Create By Tyz
+
