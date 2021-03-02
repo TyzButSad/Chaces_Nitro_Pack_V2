@@ -10,7 +10,7 @@ Comment L'installer ?
 
 3. git clone https://github.com/TyzButSad/android-nitro.git
 
-4.cd TyzGen 
+4.cd TyzGen
 
 5.bash install-termux.sh
 
