@@ -4,19 +4,24 @@ Generator de nitro uncheck sur mobile
 
 Comment L'installer ?
 
-1.Installe Termux
+1. Installe Termux
 
-2.Ouvre Termux
+2.pkg install git
 
-3.Install Cx Explorateur De Fichiers
+3. git clone https://github.com/TyzButSad/android-nitro.git
 
-4.Ouvre Le Copie Le Chemin D'accès 
+4.cd TyzGen 
 
-"cd /storage/emulated/0/Ton Chemin"
+5.bash install-termux.sh
 
-5.Fait python Generator.py
+6.Ouvre le fichier "Install-termux.sh"
 
-6.Profite 
+7.Entre le code dans termux
 
-Create By Tyz
+8.pkg install python
 
+9.python Generator.py
+
+10. Profite !
+
+11. Tutoriel : Soon...
