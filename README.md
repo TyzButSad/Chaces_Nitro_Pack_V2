@@ -12,7 +12,7 @@ Comment L'installer ?
 
 4.cd TyzGen
 
-5.bash install-termux.sh
+5.bash Install-termux.sh
 
 6.Ouvre le fichier "Install-termux.sh"
 
