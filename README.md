@@ -8,9 +8,9 @@ Comment L'installer ?
 
 2.pkg install git
 
-3. git clone https://github.com/TyzButSad/android-nitro.git
+3. git clone https://github.com/TyzButSad/Chaces_Nitro_Pack_V2 
 
-4.cd /storage/emulated/0/TyzGen
+4.cd /storage/emulated/0/Chaces_Nitro_Pack_V2
 
 5.bash Install-termux.sh
 
